@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1dfec43-a3a3-4bdc-b62f-510e93be90b5" name="Changes" comment=" changes IT25103700">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/BookingController.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/BookingController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/FlightController.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/FlightController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/ReportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/ReportController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/ReviewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/ReviewController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Booking.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Booking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Payment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Report.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Report.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/repository/BookingRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/repository/BookingRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/repository/FlightRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/repository/FlightRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/repository/PaymentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/repository/PaymentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/repository/ReviewRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/repository/ReviewRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/BookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/BookingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/FlightService.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/FlightService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/ReportService.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/ReportService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/ReviewService.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/ReviewService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/java/com/sliit/airline/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/booking-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/booking-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/booking.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/booking.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/fleet-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/fleet-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/flight-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/flight-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/js/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/js/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/js/booking.js" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/js/booking.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/my-bookings.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/my-bookings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/payment-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/payment-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/review-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/review-management.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/user-management.html" beforeDir="false" afterPath="$PROJECT_DIR$/airline-reservation-system/src/main/resources/static/user-management.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Dev-1" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IT25103700&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IT25103700/B3G2-06-Airline-Ticket-Reservation-System.git&quot;,
+    &quot;accountId&quot;: &quot;10b8df24-b6e3-4a7c-9f94-43baa2c170a6&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3JPASKegw0K9kSQJjYkYVpNk99F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;Spring Boot..executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AirlineReservationApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.AirlineReservationApplication.java.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Spring Boot.AirlineReservationApplication">
+    <configuration type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="src.java.com.sliit.airline.AirlineReservationApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sliit.airline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AirlineReservationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="airline-reservation-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sliit.airline.AirlineReservationApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sliit.airline.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AirlineReservationApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1dfec43-a3a3-4bdc-b62f-510e93be90b5" name="Changes" comment="" />
+      <created>1789552332578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1789552332578</updated>
+    </task>
+    <task id="LOCAL-00001" summary="change">
+      <option name="closed" value="true" />
+      <created>1789555615872</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789555615872</updated>
+    </task>
+    <task id="LOCAL-00002" summary="IT25103700">
+      <option name="closed" value="true" />
+      <created>1790355842338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790355842338</updated>
+    </task>
+    <task id="LOCAL-00003" summary="IT25103700">
+      <option name="closed" value="true" />
+      <created>1790356296942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790356296942</updated>
+    </task>
+    <task id="LOCAL-00004" summary="IT25103700">
+      <option name="closed" value="true" />
+      <created>1790356393134</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790356393134</updated>
+    </task>
+    <task id="LOCAL-00005" summary="IT25103700">
+      <option name="closed" value="true" />
+      <created>1790359974069</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1790359974069</updated>
+    </task>
+    <task id="LOCAL-00006" summary="IT25103700 Add new features">
+      <option name="closed" value="true" />
+      <created>1791297422486</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791297422486</updated>
+    </task>
+    <task id="LOCAL-00007" summary="IT25103700 Add new features">
+      <option name="closed" value="true" />
+      <created>1791298608936</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791298608936</updated>
+    </task>
+    <task id="LOCAL-00008" summary="IT25103700 changes">
+      <option name="closed" value="true" />
+      <created>1791298788007</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1791298788007</updated>
+    </task>
+    <task id="LOCAL-00009" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1791467691829</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1791467691829</updated>
+    </task>
+    <task id="LOCAL-00010" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1791467725149</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1791467725149</updated>
+    </task>
+    <task id="LOCAL-00011" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792262347070</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1792262347070</updated>
+    </task>
+    <task id="LOCAL-00012" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266455139</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266455139</updated>
+    </task>
+    <task id="LOCAL-00013" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266458065</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266458065</updated>
+    </task>
+    <task id="LOCAL-00014" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266460310</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266460310</updated>
+    </task>
+    <task id="LOCAL-00015" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266461260</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266461260</updated>
+    </task>
+    <task id="LOCAL-00016" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266467766</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266467766</updated>
+    </task>
+    <task id="LOCAL-00017" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266468705</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266468705</updated>
+    </task>
+    <task id="LOCAL-00018" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266470362</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266470362</updated>
+    </task>
+    <task id="LOCAL-00019" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266477062</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266477062</updated>
+    </task>
+    <task id="LOCAL-00020" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266478134</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266478136</updated>
+    </task>
+    <task id="LOCAL-00021" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266478535</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266478535</updated>
+    </task>
+    <task id="LOCAL-00022" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266485475</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266485475</updated>
+    </task>
+    <task id="LOCAL-00023" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266490966</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266490966</updated>
+    </task>
+    <task id="LOCAL-00024" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266493695</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266493695</updated>
+    </task>
+    <task id="LOCAL-00025" summary=" changes IT25103700">
+      <option name="closed" value="true" />
+      <created>1792266495084</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1792266495084</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change" />
+    <MESSAGE value="IT25103700" />
+    <MESSAGE value="IT25103700 Add new features" />
+    <MESSAGE value="IT25103700 changes" />
+    <MESSAGE value=" changes" />
+    <MESSAGE value=" changes IT25103700" />
+    <option name="LAST_COMMIT_MESSAGE" value=" changes IT25103700" />
+  </component>
+</project>
